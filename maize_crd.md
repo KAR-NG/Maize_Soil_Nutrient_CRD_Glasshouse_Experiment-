@@ -8,15 +8,27 @@ Kar Ng
 -   [3 INTRODUCTION](#3-introduction)
 -   [4 EXPERIMENTAL DESIGN SUMMARY](#4-experimental-design-summary)
 -   [5 DATA PREPARATION](#5-data-preparation)
+    -   [5.1 SQL: Data Cleaning](#51-sql-data-cleaning)
+    -   [5.2 R: Data Upload](#52-r-data-upload)
+    -   [5.3 R: Data Exploration](#53-r-data-exploration)
+    -   [5.4 R: Data Manipulation](#54-r-data-manipulation)
 -   [6 EXPLORATORY DATA ANALYSIS
     (EDA)](#6-exploratory-data-analysis-eda)
 -   [7 STATISTICAL ANALYSIS](#7-statistical-analysis)
+    -   [7.1 First harvest with
+        Kruskal-Wallies](#71-first-harvest-with-kruskal-wallies)
+    -   [7.2 Second harvest: Kruskal-Wallies + Dunn’s
+        test](#72-second-harvest-kruskal-wallies--dunns-test)
+    -   [7.3 Third harvest: Kruskal-Wallies + Dunn’s
+        test](#73-third-harvest-kruskal-wallies--dunns-test)
+    -   [7.4 STATISTICAL SUMMARY](#74-statistical-summary)
+    -   [8 CONCLUSION](#8-conclusion)
 -   [9 LEGALITY](#9-legality)
 -   [10 REFERENCE](#10-reference)
 
 ------------------------------------------------------------------------
 
-![](C:\Users\karho\Desktop\R%20and%20Stats\R%20for%20online%20presence\20210707_p7_Omission\omission\pic3_thumbnail.png)
+![](https://raw.githubusercontent.com/KAR-NG/Maize-Soil-Nutrient-CRD-Glasshouse-Experiment-/main/pic3_thumbnail.png)
 
 ------------------------------------------------------------------------
 
@@ -53,7 +65,7 @@ significantly lower than the soils that have the balanced nutrient.
 
 *Highlights* <br/>
 
-![](C:\Users\karho\Desktop\R%20and%20Stats\R%20for%20online%20presence\20210707_p7_Omission\omission\pic4_combinedgraph.png)
+![](https://raw.githubusercontent.com/KAR-NG/Maize-Soil-Nutrient-CRD-Glasshouse-Experiment-/main/pic4_combinedgraph.png)
 
 <br/>
 
@@ -255,7 +267,9 @@ follow my description.
 Following is the BigQuery database showing the maize dataset.
 
 <br/>
-![](C:\Users\karho\Desktop\R%20and%20Stats\R%20for%20online%20presence\20210707_p7_Omission\omission\pic1_SQL.JPG)
+
+![](https://raw.githubusercontent.com/KAR-NG/Maize-Soil-Nutrient-CRD-Glasshouse-Experiment-/main/pic1_SQL.JPG)
+
 <br/>
 
 The maize dataset has columns “Harvest”, “Treatments”, “rep”,
@@ -354,7 +368,9 @@ S\_removed
 Following SQL code complete all the cleaning tasks at once.
 
 <br/>
-![](C:\Users\karho\Desktop\R%20and%20Stats\R%20for%20online%20presence\20210707_p7_Omission\omission\pic2_SQL_Code.JPG)
+
+![](https://raw.githubusercontent.com/KAR-NG/Maize-Soil-Nutrient-CRD-Glasshouse-Experiment-/main/pic2_SQL_Code.JPG)
+
 <br/>
 
 After cleaning, the dataset is downloaded to my relevant local file.
