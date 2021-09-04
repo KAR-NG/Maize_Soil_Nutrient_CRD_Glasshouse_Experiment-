@@ -267,13 +267,9 @@ follow my description.
 Following is the BigQuery database showing the maize dataset.
 
 <br/>
-<<<<<<< HEAD
 
 ![](https://raw.githubusercontent.com/KAR-NG/Maize-Soil-Nutrient-CRD-Glasshouse-Experiment-/main/pic1_SQL.JPG)
 
-=======
-![](https://raw.githubusercontent.com/KAR-NG/Maize-Soil-Nutrient-CRD-Glasshouse-Experiment-/main/pic1_SQL.JPG)
->>>>>>> 41c8ed50a165be5ac5d0cf53be45e2874ad7f975
 <br/>
 
 The maize dataset has columns “Harvest”, “Treatments”, “rep”,
@@ -372,13 +368,9 @@ S\_removed
 Following SQL code complete all the cleaning tasks at once.
 
 <br/>
-<<<<<<< HEAD
 
 ![](https://raw.githubusercontent.com/KAR-NG/Maize-Soil-Nutrient-CRD-Glasshouse-Experiment-/main/pic2_SQL_Code.JPG)
 
-=======
-![](https://raw.githubusercontent.com/KAR-NG/Maize-Soil-Nutrient-CRD-Glasshouse-Experiment-/main/pic2_SQL_Code.JPG)
->>>>>>> 41c8ed50a165be5ac5d0cf53be45e2874ad7f975
 <br/>
 
 After cleaning, the dataset is downloaded to my relevant local file.
