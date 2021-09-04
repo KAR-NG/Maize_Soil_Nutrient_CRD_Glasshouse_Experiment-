@@ -2,14 +2,9 @@
 title: "How are various basic soil nutrients affecting maize growth?"
 author: "Kar Ng"
 date: "7/7/2021"
-output: 
-  html_document: 
-    code_folding: hide
-    df_print: paged
-    toc: true
-    toc_float: true
-  pdf_document: default
-  
+output:
+  github_document:
+always_allow_html: yes
 ---
 
 
