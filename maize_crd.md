@@ -1,11 +1,11 @@
 How are various basic soil nutrients affecting maize growth?
 ================
 Kar Ng
-7/7/2021
+2021
 
 ------------------------------------------------------------------------
 
-![](C:\Users\karho\Desktop\R%20and%20Stats\R%20for%20online%20presence\20210707_p7_Omission\omission\pic3_thumbnail.png)
+![](https://raw.githubusercontent.com/KAR-NG/Maize-Soil-Nutrient-CRD-Glasshouse-Experiment-/main/pic3_thumbnail.png)
 
 ------------------------------------------------------------------------
 
@@ -42,7 +42,7 @@ significantly lower than the soils that have the balanced nutrient.
 
 *Highlights* <br/>
 
-![](C:\Users\karho\Desktop\R%20and%20Stats\R%20for%20online%20presence\20210707_p7_Omission\omission\pic4_combinedgraph.png)
+![](https://raw.githubusercontent.com/KAR-NG/Maize-Soil-Nutrient-CRD-Glasshouse-Experiment-/main/pic4_combinedgraph.png)
 
 <br/>
 
@@ -244,7 +244,7 @@ follow my description.
 Following is the BigQuery database showing the maize dataset.
 
 <br/>
-![](C:\Users\karho\Desktop\R%20and%20Stats\R%20for%20online%20presence\20210707_p7_Omission\omission\pic1_SQL.JPG)
+![](https://raw.githubusercontent.com/KAR-NG/Maize-Soil-Nutrient-CRD-Glasshouse-Experiment-/main/pic1_SQL.JPG)
 <br/>
 
 The maize dataset has columns “Harvest”, “Treatments”, “rep”,
@@ -343,7 +343,7 @@ S\_removed
 Following SQL code complete all the cleaning tasks at once.
 
 <br/>
-![](C:\Users\karho\Desktop\R%20and%20Stats\R%20for%20online%20presence\20210707_p7_Omission\omission\pic2_SQL_Code.JPG)
+![](https://raw.githubusercontent.com/KAR-NG/Maize-Soil-Nutrient-CRD-Glasshouse-Experiment-/main/pic2_SQL_Code.JPG)
 <br/>
 
 After cleaning, the dataset is downloaded to my relevant local file.
