@@ -244,7 +244,9 @@ follow my description.
 Following is the BigQuery database showing the maize dataset.
 
 <br/>
+
 ![](https://raw.githubusercontent.com/KAR-NG/Maize-Soil-Nutrient-CRD-Glasshouse-Experiment-/main/pic1_SQL.JPG)
+
 <br/>
 
 The maize dataset has columns “Harvest”, “Treatments”, “rep”,
@@ -343,7 +345,9 @@ S\_removed
 Following SQL code complete all the cleaning tasks at once.
 
 <br/>
+
 ![](https://raw.githubusercontent.com/KAR-NG/Maize-Soil-Nutrient-CRD-Glasshouse-Experiment-/main/pic2_SQL_Code.JPG)
+
 <br/>
 
 After cleaning, the dataset is downloaded to my relevant local file.
